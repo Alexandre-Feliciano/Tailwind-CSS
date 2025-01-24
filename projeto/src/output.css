@@ -678,6 +678,42 @@ video {
   border-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y);
 }
 
+.cursor-auto {
+  cursor: auto;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-wait {
+  cursor: wait;
+}
+
+.cursor-text {
+  cursor: text;
+}
+
+.cursor-move {
+  cursor: move;
+}
+
+.cursor-help {
+  cursor: help;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+.cursor-none {
+  cursor: none;
+}
+
+.cursor-context-menu {
+  cursor: context-menu;
+}
+
 .border {
   border-width: 1px;
 }

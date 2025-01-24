@@ -45,8 +45,6 @@ ex:
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
 @layer utilities{
     .scroll-snap-none{
         scroll-snap-type: none;
